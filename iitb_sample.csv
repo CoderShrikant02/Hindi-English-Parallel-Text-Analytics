@@ -1,0 +1,201 @@
+en,hi
+Give your application an accessibility workout,अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें
+Accerciser Accessibility Explorer,एक्सेर्साइसर पहुंचनीयता अन्वेषक
+The default plugin layout for the bottom panel,निचले पटल के लिए डिफोल्ट प्लग-इन खाका
+The default plugin layout for the top panel,ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका
+A list of plugins that are disabled by default,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+Highlight duration,अवधि को हाइलाइट रकें
+The duration of the highlight box when selecting accessible nodes,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि
+Highlight border color,सीमांत (बोर्डर) के रंग को हाइलाइट करें
+The color and opacity of the highlight border.,हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता। 
+Highlight fill color,भराई के रंग को हाइलाइट करें
+The color and opacity of the highlight fill.,हाइलाइट किया गया भराई का रंग और पारदर्शिता। 
+API Browser,एपीआई विचरक
+Browse the various methods of the current accessible,"इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें"
+Hide private attributes,निजी गुणों को छिपाएं
+Method,विधि
+Property,गुणधर्म
+Value,मान
+IPython Console,आईपाइथन कन्सोल
+Interactive console for manipulating currently selected accessible,इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल
+Event monitor,घटना मानिटर
+_ Monitor Events,घटनाओं को मानिटर करें (_ M) 
+C _ lear Selection,चुनाव को हटाएं (C _) 
+Everything,सभी
+Selected application,चुने गए अनुप्रयोग
+Selected accessible,चुने गए एक्सेसेबेल
+Source,स्रोत
+Event Monitor,घटना मानिटर
+Shows events as they occur from selected types and sources,"चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है"
+Highlight last event entry,अंतिम प्रविष्ट घटना को हाइलाइट करो
+Start / stop event recording,घटना रेकोर्डिंग शुरू करो/रोको
+Clear event log,घटना रोजनामचा मिटाओ
+(no description),कोई विवरण नहीं
+Description,वर्णन
+Show,दिखाएं
+_ Accessible,पहुंचनीय
+Perform action,कार्रवाई संपन्न करें
+Acti _ on,कार्रवाई (_ o) 
+ID,आईडी
+Toolkit,औजार बक्सा
+Version,संस्करण
+Ap _ plication,अनुप्रयोग
+Col _ lection,संग्रह
+"0, 0","0, 0"
+Relative position,सापेक्ष स्थिति
+Size,आकार
+WIDGET,विडजेट
+Layer,स्तर
+MDI - Z - order,एमडीआई-जेड-क्रम
+Alpha,अल्फा
+Absolute position,निरपेक्ष स्थिति
+Co _ mponent,घटक
+Des _ ktop,डेस्कटोप
+Locale:,स्थान-विशिष्टः
+_ Document,प्रलेख
+Hyperlink,हाइपरकड़ी
+H _ ypertext,हाइपरपाठ
+Position,स्थिति
+Description,वर्णन
+Locale,स्थान-विशिष्ट
+_ Image,छवि (_ I) 
+Lo _ gin Helper,प्रवेश सहायक
+Select All,सभी चुनें
+_ Selection,चयन (_ S) 
+St _ reamable Content,प्रवाहित करनेयोग्य विषयवस्तु
+Selected columns,चुने गए स्तंभ
+Selected rows,चुनी गई पंक्तियां
+Columns,स्तंभ
+Rows,पंक्तियां
+Table Information,& lt; bgt; सारणी सूचनाlt;/bgt; 
+"name (x, y)","नाम (x, y) "
+Header:,शीर्षकः
+Extents:,विस्तारः
+Row,पंक्ति
+Column,स्तंभ
+Selected Cell,& lt; bgt; चुनी गई कोशिकाlt;/bgt; 
+_ Table,सारणी (_ T) 
+Offset,ओफसेट
+Include defaults,डिफोल्टों को शामिल करें
+Te _ xt,पाठ (_ x) 
+Current value,मौजूदा मान
+Minimum increment,न्यूनतम वृद्धि
+Maximum value,अधिकतम मान
+Minimum value,न्यूनतम मान
+Val _ ue,मान
+Interface Viewer,अंतराफलक दर्शक
+Allows viewing of various interface properties,अंतराफलक के विभिन्न गुणों को देखने देता है
+(not implemented),(क्रियान्वित नहीं हुआ है) 
+Name,नाम
+URI,यूआरआई
+Start,प्रारंभ
+End,अंत
+Too many selectable children,बहुत अधिक चयनीय शिशु हैं
+Quick Select,तेज चुनाव
+Plugin with various methods of selecting accessibles quickly.,प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां
+Inspect last focused accessible,अंतिम बार फोकस किए गए एक्सेसेबल को जांचें
+Inspect accessible under mouse,"माउस के अधीन जो एक्सेसेबल है, उसे जांचें"
+Native,वतनी
+Dogtail,श्वानपुच्छ
+LDTP,एलडीटीपी
+Script Type,लिपि प्रकार
+Script Recorder,लिपि रेकोर्डर
+Creates dogtail style scripts,श्वानपुच्छ शैली की लिपियां निर्मित करता है
+The current script will be lost.,वर्तमान लिपि (स्क्रिप्ट) खो जाएगी। 
+Confirm clear,मिटाने की पुष्टि करें
+Sche _ ma:,स्कीमाः
+V _ alidate,सत्यापन
+Idle,खाली
+No description,कोई विवरण नहीं
+AT - SPI Validator,एटी-एसपीआई सत्यापक
+Validates application accessibility,अनुप्रयोग की पहुंचनीयता का सत्यापन करता है
+Level,स्तर
+Role,भूमिका
+Saving,सहेज रहे हैं
+Validating,पुष्टि कर रहे हैं
+EXCEPT,अपवाद
+ERROR,त्रुटि
+WARN,चेतावनी
+INFO,सूचना
+DEBUG,दोषमुक्त करें
+Basic,मूल
+Tests fundamental GUI application accessibility,मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है
+actionable% s is not focusable or selectable,"% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय"
+interactive% s is not actionable,अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है
+more than one focused widget,एक से अधिक विडजेट फोकस में है
+% s has no text interface,% s का कोई पाठ अंतराफलक नहीं है
+% s index in parent does not match child index,अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती
+Missing reciprocal for% s relation,% s संबंध के लिए अन्योन्य गायब है
+% s missing name or label,% s गायब नाम या सूचक
+"focusable% s has table interface, no selection interface","फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state"
+% s has% s state without% s state,"% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है"
+% s does not belong to a set,% s किसी समुच्चय का सदस्य नहीं है
+% (rolename) s index% (num) d does not match row and column,% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index
+% (rolename) s parent index% (num1) d does not match row and column index% (num2) d,% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते
+% s has no name or description,% s का कोई नाम या विवरण नहीं
+_ Preferences...,पसंद (_ P)... 
+_ Contents,विषय सूची (_ C) 
+Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?,एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं? 
+Note: Changes only take effect after logout.,टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे। 
+Children,शिशु
+_ Refresh Registry,पंजी ताजा करें (_ R) 
+Refresh all,सभी को ताजा करें
+Refresh _ Node,आसंधि (नोड) को ताजा करें (_ N) 
+Refresh selected node 's children,चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें
+Component,घटक
+Task,कार्य
+Key,कुंजी
+Alt,आल्ट
+Ctrl,कंट्रोल
+Shift,शिफ्ट
+Top panel,ऊपरी पटल
+Bottom panel,निचला पटल
+accerciser Preferences,एक्सेर्साइसर पसंद
+Plugins,प्लगइन्स
+Global Hotkeys,सार्वत्रिक फटाफट कुंजियां
+Highlighting,हाइलाइटन
+Highlight duration:,हाइलाइट अवधिः
+Border color:,सीमांत रंगः
+The border color of the highlight box,हाइलाइट बक्से का सीमांत रंग
+Fill color:,भराई का रंगः
+The fill color of the highlight box,हाइलाइट बक्से का भराई रंग
+translator - credits,रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com) 
+An interactive Python accessibility explorer,एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक
+"accerciser Copyright © 2006, 2007 IBM Corporation (BSD)","एक्सेर्साइसर सर्वाधिकार © 2006,2007 आईबीएम निगम (बीएसडी) "
+The New BSD License See the COPYING and NOTICE files for details.,नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें
+Web site,जाल स्थल
+_ Add Bookmark...,पसंद जोड़ें... (_ A) 
+Bookmark selected accessible.,चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें
+_ Edit Bookmarks...,पुस्तक चिह्न संपादित करें (_ E)... 
+Manage bookmarks.,पुस्तक-चिह्नों को प्रबंधित करें। 
+Edit Bookmarks...,पुस्तक चिह्नों को संपादित करें... 
+Title,शीर्षक
+Application,अनुप्रयोग
+Path,पथ
+Add Bookmark...,पुस्तक-चिह्न जोड़ें... 
+Title:,शीर्षकः
+Application:,अनुप्रयोगः
+Path:,पथः
+Plugin Errors,प्लग-इन त्रुटियां
+View,दृश्य
+No view,कोई दृश्य नहीं है
+_ Single plugins view,एकल प्लग-इन दृश्य
+Plugin View,प्लग-इन दृश्य
+Plugin View (% d),प्लग-इन दृश्य (% d) 
+_ New view...,नया दृश्य... 
+New View...,नया दृश्य... 
+_ File,फाइल (F) 
+_ Edit,संपादित करें
+_ Bookmarks,पुस्तक-चिह्न संपादित करें (_ E)... 
+_ View,दृश्य _ (V) 
+_ Help,मदद
+Full name,पूरा नाम
+Key binding,कुंजी बंधन
+Content type,विषय प्रकार
+Give your application an accessibility workout,अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें
+Accerciser Accessibility Explorer,एक्सेर्साइसर पहुंचनीयता अन्वेषक
+The default plugin layout for the bottom panel,निचले पटल के लिए डिफोल्ट प्लग-इन खाका
+The default plugin layout for the top panel,ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका
+A list of plugins that are disabled by default,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+Highlight duration,अवधि को हाइलाइट रकें
+The duration of the highlight box when selecting accessible nodes,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि

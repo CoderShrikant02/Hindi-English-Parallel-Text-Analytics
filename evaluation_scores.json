@@ -1,0 +1,7 @@
+{
+  "direction": "EN \u2192 HI",
+  "model": "Helsinki-NLP/opus-mt-en-hi",
+  "BLEU": 6.91,
+  "chrF": 27.09,
+  "METEOR": 0.242
+}
